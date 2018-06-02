@@ -36,6 +36,6 @@ dependencies {
     implementation rootProject.ext.libraries.google_gson
     implementation rootProject.ext.libraries.okHttp_client
     implementation 'com.google.guava:guava:18.0'
-    implementation 'com.android.support:customtabs:26.1.0'
+    implementation 'com.android.support:customtabs:27.1.1'
     implementation 'net.danlew:android.joda:2.9.9.1'
 }
